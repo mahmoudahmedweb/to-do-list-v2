@@ -4,6 +4,8 @@ A sleek and intuitive To-Do List application built with React and TypeScript, fe
 
 This is version 2 of the app — the original was developed months ago using vanilla JavaScript. Back then, I outlined several improvements I wanted to make. This version brings those ideas to life, rebuilt entirely with React and TypeScript for better structure, scalability, and a richer user experience.
 
+![To-do List](https://k.top4top.io/p_3419l3ax91.png)
+
 ## Features
 
 - Add, edit, and delete tasks
